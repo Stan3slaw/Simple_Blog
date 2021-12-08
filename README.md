@@ -9,6 +9,14 @@
 
 Used technologies: [NestJs](https://nestjs.com/), [ReactJs](https://reactjs.org/)
 
+## Setting up MONGODB_URL
+
+```bash
+Go to -> backend/src/
+Open -> app.module.ts
+Set up USERNAME and PASSWORD in -> mongodb+srv://USERNAME:PASSWORD@cluster0.6ngck.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+```
+
 ## Installation and running backend
 
 ```bash
